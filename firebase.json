@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site" : "proyecto-e53e0",
+    "public": "dist/notas-web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

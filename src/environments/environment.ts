@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-    firebaseConfig:{
+    firebaseConfig : {
       apiKey: "AIzaSyDUL8MljY6qGxpKnOZfmmE-l8Qn-PdRunU",
       authDomain: "proyecto-e53e0.firebaseapp.com",
       projectId: "proyecto-e53e0",
